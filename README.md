@@ -10,5 +10,6 @@ John Bryce task for the Full Stack Java course
  1) Print of the generated matrix (with input size and random values)
  2) Print of the result floating rivers
 
- #Autor: Lior Ben ami
- #Date: Jan-2021
+ Autor: Lior Ben ami
+ 
+ Date: Jan-2021
